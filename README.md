@@ -9,7 +9,7 @@ This project includes:
 - **Visualization** of results using DFT, spectrogram, and time-domain plots
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HU01fNl3dZZ5Zuo/giphy.gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF5bXVzaG1jeW5rb2w1eXA4YjNpZDRlNGVhN253NW1sbGlsamI0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XMaB779YCmP9m/giphy.gif"/>
 </p>
 
 ---
