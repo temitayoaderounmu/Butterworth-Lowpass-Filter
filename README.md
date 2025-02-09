@@ -51,9 +51,9 @@ The audio signal is processed through the Butterworth filter in MATLAB. Key step
 4. **Time-Domain Analysis**: The final filtered signal is plotted in the time domain to confirm the noise reduction while preserving the speech signal.
 
 <p align="center">
-  <img src="./images/system_diagram.png" alt="System Diagram" />
+  <img src="./images/impl.png" alt="Filter Implementation" />
 </p>  
-<p align="center"><b>Figure 1: Plot of the Discrete Fourier Transformation [DFT] before filtering</b> In the plot the zero frequency is at the center of the plot and the horizontal axis illustrates frequency in Hz.</p>
+<p align="center"><b>Figure 1: Plot of the Discrete Fourier Transformation [DFT] before filtering.</b> In the plot the zero frequency is at the center of the plot and the horizontal axis illustrates frequency in Hz.</p>
 
 ---
 
@@ -71,12 +71,12 @@ The audio signal is processed through the Butterworth filter in MATLAB. Key step
 - **Time-Domain Analysis**: Visualizes the audio waveform before and after filtering.
 
 <p align="center">
-  <img src="./images/freq.png" alt="System Diagram" />
+  <img src="./images/freq.png" alt="Audio Frequency" />
 </p>  
 <p align="center"><b>Figure 2: Audio Frequency Analysis.</b> The Discrete Fourier Transformation [DFT] technique was implemented to determine the wanted and unwanted frequency ranges for the audio sample.</p>
 
 <p align="center">
-  <img src="./images/spectro.png.png" alt="System Diagram" />
+  <img src="./images/spectro.png" alt="Spectrogram" />
 </p>  
 <p align="center"><b>Figure 3: Audio Frequency Analysis.</b> The spectrogram technique was implemented to determine the wanted and unwanted frequency ranges for the audio sample.</p>
 
@@ -92,7 +92,7 @@ The filter was tested on an audio sample with various types of noise, including 
 - **Visual Representation**: The results are illustrated in frequency-domain plots (before and after filtering) and time-domain waveforms.
 
 <p align="center">
-  <img src="./images/result.png" alt="Test Results" />
+  <img src="./images/result.png" alt="Filtered Audio" />
 </p>  
 <p align="center"><b>Figure 4: Plot of the audio signal that has been filtered in the time domain.</b></p>
 
